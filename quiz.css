@@ -5,8 +5,8 @@
     box-sizing: border-box;
 }
 
-.body {
-    background-color: #0c1618;
+body {
+    background: #0c1618;
 }
 
 .app {
