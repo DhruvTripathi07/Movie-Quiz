@@ -70,6 +70,7 @@
     border-radius: 4px;
     cursor: pointer;
     display: none;
+    transition: all 0.5s;
 }
 
 #next-btn:hover{
